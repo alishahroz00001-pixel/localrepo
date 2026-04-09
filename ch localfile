@@ -1,0 +1,14 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex db0076b..7ee7eef 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -8,6 +8,7 @@[m
+ </head>[m
+ <body>[m
+   <P1>new localrepo</P1>[m
+[31m-<P2>hello worald</P2>  [m
+[32m+[m[32m<P2>hello worald</P2>[m[41m [m
+[32m+[m[32m<P3>my name is ali shahroz</P3>[m[41m [m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
